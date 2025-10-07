@@ -34,6 +34,17 @@
 
 ---
 
+### 🧰 Tech Stack
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0081CB?style=flat&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-0A66C2?style=flat&logo=lightning&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+---
+
 ### 📊 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashdabhi1&show_icons=true&theme=radical)
 
