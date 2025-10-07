@@ -1,9 +1,9 @@
 # Hi 👋, I'm Yash Dabhi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I'm+Yash+Dabhi;Salesforce+Developer;LWC+%7C+Apex+%7C+Integration+Specialist)](https://git.io/typing-svg)
+
 ### Salesforce Developer | LWC | Apex | Integration Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashdabhi1&label=Profile%20views&color=0e75b6&style=flat)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🚀 Passionate Salesforce Developer skilled in building scalable solutions using Lightning Web Components (LWC), Apex, and declarative automation.  
 💡 Experienced in Salesforce integrations, API development, and Google Drive automation.  
