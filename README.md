@@ -29,13 +29,6 @@
 
 ---
 
-### ⚙️ Languages and Tools
-`Apex` `LWC` `SOQL` `JavaScript` `HTML` `CSS` `Node.js` `Git` `Salesforce CLI` `React` `Material UI`
-
----
-
-### 🧰 Tech Stack
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ## 🛠️ Tech Stack
 
 ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
