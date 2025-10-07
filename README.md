@@ -21,9 +21,10 @@
 ---
 
 ### 💬 Connect with Me
-📧 [yashdabhi.dev@gmail.com](mailto:yashdabhi.dev@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/yashdabhi)  
+📧 [yashdabhi.dev@gmail.com](mailto:dabhiyash11111@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/yash-dabhi1/)  
 💻 [GitHub](https://github.com/yashdabhi1)
+🧑‍💻 [Medium](https://yashdabhi.medium.com/)
 
 ---
 
