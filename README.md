@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 Currently Learning
-- Salesforce Flows & Advanced LWC
+- Salesforce Flows & Advanced LWC  
 - React.js & Material UI for modern UI experiences
 
 ---
@@ -21,9 +21,9 @@
 ---
 
 ### 💬 Connect with Me
-📧 [dabhiyash11111@gmail.com](mailto:dabhiyash11111@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yash-dabhi1/)  
-💻 [GitHub](https://github.com/yashdabhi1)
+📧 [dabhiyash11111@gmail.com](mailto:dabhiyash11111@gmail.com)   
+💼 [LinkedIn](https://linkedin.com/in/yashdabhi)  
+💻 [GitHub](https://github.com/yashdabhi1)  
 🧑‍💻 [Medium](https://yashdabhi.medium.com/)
 
 ---
