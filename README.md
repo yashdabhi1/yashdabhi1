@@ -3,6 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashdabhi1&label=Profile%20views&color=0e75b6&style=flat)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 🚀 Passionate Salesforce Developer skilled in building scalable solutions using Lightning Web Components (LWC), Apex, and declarative automation.  
 💡 Experienced in Salesforce integrations, API development, and Google Drive automation.  
 🎯 Always exploring innovative solutions that simplify business workflows.
