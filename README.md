@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Dabhi
+### Salesforce Developer | LWC | Apex | Integration Specialist
 
-<!--
-**yashdabhi1/yashdabhi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Salesforce Developer skilled in building scalable solutions using Lightning Web Components (LWC), Apex, and declarative automation.  
+💡 Experienced in Salesforce integrations, API development, and Google Drive automation.  
+🎯 Always exploring innovative solutions that simplify business workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+- Salesforce Flows & Advanced LWC
+- React.js & Material UI for modern UI experiences
+
+---
+
+### 💼 Portfolio
+🌐 [My Portfolio Website](https://yashdabhi.vercel.app)
+
+---
+
+### 💬 Connect with Me
+📧 [yashdabhi.dev@gmail.com](mailto:yashdabhi.dev@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/yashdabhi)  
+💻 [GitHub](https://github.com/yashdabhi1)
+
+---
+
+### ⚙️ Languages and Tools
+`Apex` `LWC` `SOQL` `JavaScript` `HTML` `CSS` `Node.js` `Git` `Salesforce CLI` `React` `Material UI`
+
+---
+
+### 📊 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashdabhi1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdabhi1&layout=compact&theme=radical)
+
+---
+
+⭐ *"Code with purpose, deliver with passion."*
