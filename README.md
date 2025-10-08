@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I'm+Yash+Dabhi;Salesforce+Developer;LWC+%7C+Apex+%7C+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I'm+Yash+Dabhi;Salesforce+Developer)](https://git.io/typing-svg)
 
 ### Salesforce Developer | LWC | Apex | Integration Specialist
 
