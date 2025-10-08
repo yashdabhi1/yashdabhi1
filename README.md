@@ -51,10 +51,4 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashdabhi1&theme=radical)](https://github.com/yashdabhi1)  
-
----
-
 ⭐ *"Code with purpose, deliver with passion."*
