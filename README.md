@@ -51,7 +51,9 @@
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 🏆 Achievements & Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashdabhi1&theme=radical)](https://github.com/yashdabhi1)  
 
 ---
 
